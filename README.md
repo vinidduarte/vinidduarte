@@ -1,10 +1,15 @@
 ### Olá, sou o Vinicius Drumond!
 
-<div>
-  <a href="https://github.com/vinidduarte/" >
-<img height= "180em" src="https://github-readme-stats.vercel.app/api?username=vinidduarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinidduarte&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+- 🔭 Acabo de finalizar meu curso de front-end
+  
+- 🌱 Estou me aprofundando em front-end, aprendendo a utilizar Bootstrap e buscando conhecer Angular e Vue
+  
+- 👯 Estou buscando trabalhar com Front-End
+  
+- 📫 How to reach me: viniciusdduarte@outlook.com
+  
+- ⚡ Fun fact: Sou um ex-chef de cozinha que sempre amou computadores.
+
     <div style="display: inline_block"><br>
   <img align="center" alt="vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="vini-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -28,13 +33,8 @@
 
 
 
-- 🔭 Acabo de finalizar meu curso de front-end
-  
-- 🌱 Estou me aprofundando em front-end, aprendendo a utilizar Bootstrap e buscando conhecer Angular e Vue
-  
-- 👯 Estou buscando trabalhar com Front-End
-  
-- 📫 How to reach me: viniciusdduarte@outlook.com
-  
-- ⚡ Fun fact: Sou um ex-chef de cozinha que sempre amou computadores.
-
+<div>
+  <a href="https://github.com/vinidduarte/" >
+<img height= "180em" src="https://github-readme-stats.vercel.app/api?username=vinidduarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinidduarte&layout=compact&langs_count=16&theme=dracula"/>
+</div>
