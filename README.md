@@ -1,15 +1,22 @@
-### Olá, sou o Vinicius Drumond!
 
-- 🔭 Acabo de finalizar meu curso de front-end
+<h1 align="center"> Olá 👋, sou o Vinicius Drumond! </h1>
+
+
+
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vznoxurfy35qylh2eh1kufqrzr1bvedvx02ymtkl&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+- 🔭 Acabo de finalizar meu curso de **Front-End**
   
-- 🌱 Estou me aprofundando em front-end, aprendendo a utilizar Bootstrap e buscando conhecer Angular e Vue
+- 🌱 Estou me aprofundando em front-end, aprendendo a utilizar **Bootstrap** e buscando conhecer **Angular** e **Vue**
   
-- 👯 Estou buscando trabalhar com Front-End
+- 👯 Estou buscando trabalhar com **Front-End**
   
 - 📫 How to reach me: viniciusdduarte@outlook.com
   
 - ⚡ Fun fact: Sou um ex-chef de cozinha que sempre amou computadores.
 
+
+<h3 align="left">Languages and Tools:</h3>
     <div style="display: inline_block"><br>
   <img align="center" alt="vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="vini-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -35,6 +42,5 @@
 
 <div>
   <a href="https://github.com/vinidduarte/" >
-<img height= "180em" src="https://github-readme-stats.vercel.app/api?username=vinidduarte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinidduarte&layout=compact&langs_count=16&theme=dracula"/>
 </div>
