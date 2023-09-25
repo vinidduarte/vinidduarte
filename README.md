@@ -43,4 +43,5 @@
 <div>
   <a href="https://github.com/vinidduarte/" >
 <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinidduarte&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=vinidduarte&show_icons=true&locale=en&theme=dracula" alt="vinidduarte" /></p>
 </div>
