@@ -15,7 +15,7 @@
   
 - ⚡ Fun fact: Sou um ex-chef de cozinha que sempre amou computadores.
 
-- 📁 Dê uma olhada no meu portfolio: <a href="portfolio-web-vinicius-netlify.app">Clique Aqui<a/>
+- 📁 Dê uma olhada no meu portfolio: <a href="portfolio-web-vinicius.netlify.app">Clique Aqui<a/>
 
 
 <h3 align="left">Languages and Tools:</h3>
