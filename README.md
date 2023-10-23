@@ -7,7 +7,7 @@
 
 - 🔭 Acabo de finalizar meu curso de **Front-End**
   
-- 🌱 Estou me aprofundando em front-end, aprendendo a utilizar **Bootstrap** e buscando conhecer **Angular** e **Vue**
+- 🌱 Estou me aprofundando em front-end, aprendendo a utilizar **Bootstrap** e buscando conhecer **Angular** 
   
 - 👯 Estou buscando trabalhar com **Front-End**
   
